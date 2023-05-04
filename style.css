@@ -1,0 +1,38 @@
+body{
+    background-color: #DDFFBB;
+}
+
+.develop{
+    background-color: #A4BC92;
+    line-height: 2;
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-family:cursive ;
+}
+
+.header_div{
+    background-color: #A4BC92;
+    color: black;
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+}
+
+.main_div{
+    background-color: #B3C99C;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.button{
+    width: 10%;
+    border-radius: 5px;
+    background-color: #cae7ad;
+    color: black;
+    font-size: medium;
+}
